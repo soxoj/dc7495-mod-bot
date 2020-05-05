@@ -1,0 +1,13 @@
+# Telegram bot token
+TOKEN = "INSERT BOT TOKEN HERE"
+
+# PROXY = "http://127.0.0.1:8118"
+
+CHATS_TO_MONITOR = [
+	CHAT_ID,
+]
+
+MODERATOR_CHAT = CHAT_ID
+
+LOG_FILE = 'messages.log'
+
